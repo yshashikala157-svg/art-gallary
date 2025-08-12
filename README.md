@@ -14,4 +14,7 @@ Integrate on-chain royalty payments for artists on every resale.
 Store additional metadata like title, artist name, and creation date.
 Implement fractional ownership for high-value artworks.
 Build a front-end UI to browse and interact with NFTs.
-5. Contract Address
+5. Contract Address: ST2B4046KGJYA82TT6Q07ZQD735QHFZ6NPQK2WVVT.gallary
+6. 
+7. <img width="1362" height="786" alt="image" src="https://github.com/user-attachments/assets/ce83d179-0f9d-4aad-aa35-ad9b7c41799f" />
+
